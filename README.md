@@ -1,2 +1,2 @@
 # coursera-project
-My first causers project
+My first coursera project
